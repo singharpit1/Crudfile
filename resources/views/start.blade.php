@@ -15,7 +15,7 @@
     <div class="col-sm-4">
 <form action="user" method="POST">
     @csrf
-    <label for="" class="mt-4" >UserName</label>
+    <label for="" class="mt-4" >UserNameArpit</label>
     <input type="text" class="form-control" name="uname" placeholder="Enter username">
    <br>
     <label for="" class="">Login</label>
